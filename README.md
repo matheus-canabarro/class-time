@@ -1,2 +1,2 @@
-# class-time
+# Class Time
 Gerenciador de turmas online 
